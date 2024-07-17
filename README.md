@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend infrastructure design, Svelte**
 
-- 💬 Ask me about **React, Discord.JS, MC Plugin Develpment**
+- 💬 Ask me about **React, Discord.JS, MC Plugin Development**
 
 - 📫 How to reach me **amirparsab9@gmail.com**
 
