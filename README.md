@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amirparsa</h1>
 <h3 align="center">A Passionate 13yo FullStack Developer From Iran.</h3>
 
-- 🌱 I’m currently learning **Backend infrastructure design, Svelte**
+- 🌱 I’m currently learning **Backend infrastructure design, Svelte, ExpressJS Advanced Concepts**
 
 - 💬 Ask me about **React, Discord.JS, MC Plugin Development**
 
