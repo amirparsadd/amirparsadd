@@ -1,8 +1,8 @@
 # 💫 About Me:
-- 🌱 I’m currently learning Backend infrastructure design, Svelte, ExpressJS Advanced Concepts
-- 💬 Ask me about React, Discord.JS, MC Plugin Development
-- 📫 How to reach me amirparsab9@gmail.com
-- ⚡ Fun fact I started programming at 9yo
+- 🌱 I’m currently learning **Backend infrastructure design, Svelte, ExpressJS Advanced Concepts**
+- 💬 Ask me about **React, Discord.JS, MC Plugin Development**
+- 📫 How to reach me **amirparsab9@gmail.com**
+- ⚡ Fun fact **I started programming at 9yo**
 
 
 ## 🌐 Socials:
