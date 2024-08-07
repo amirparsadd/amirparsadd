@@ -13,8 +13,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amirparsadd&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirparsadd&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=AencioVinicius2&show_icons=true&theme=dark)
 ---
 [![](https://visitcount.itsvg.in/api?id=amirparsadd&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
