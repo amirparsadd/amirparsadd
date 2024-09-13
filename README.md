@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **Backend infrastructure design, Svelte, Linux Advanced Concepts**
+- 🌱 I’m currently learning **TailwindCSS, NextJS, Linux Advanced Concepts and Soon i will be learning Javalin**
 - 💬 Ask me about **React, Discord.JS, MC Plugin Development**
 - 📫 How to reach me **amirparsab9@gmail.com**
 - ⚡ Fun fact **I started programming at 9yo**
