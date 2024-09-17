@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **TailwindCSS, NextJS, Linux Advanced Concepts and Soon i will be learning Javalin**
-- 💬 Ask me about **React, Discord.JS, MC Plugin Development**
+- 🌱 I’m currently learning **TailwindCSS, NextJS, Javalin**
+- 💬 Ask me about **React, Discord.JS, MC Plugin Development and Express.js**
 - 📫 How to reach me **amirparsab9@gmail.com**
 - ⚡ Fun fact **I started programming at 9yo**
 - 🏢 I currently work at **Plix Hosting (My Own Startup)**
