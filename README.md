@@ -3,7 +3,7 @@
 - 💬 Ask me about **React, Discord.JS, MC Plugin Development and Express.js**
 - 📫 How to reach me **amirparsab9@gmail.com**
 - ⚡ Fun fact **I started programming at 9yo**
-- 🏢 I currently work at **Plix Hosting (My Own Startup)**
+- 🏢 I currently work at **Dieteno (My Own Startup)**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirparsab90) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirparsadd) 
