@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **TailwindCSS, NextJS, Spring**
+- 🌱 I’m currently learning **TailwindCSS, NextJS, Advanced DevOps Concepts**
 - 💬 Ask me about **React, Discord.JS, MC Plugin Development and Express.js**
 - 📫 How to reach me **amirparsab9@gmail.com**
 - ⚡ Fun fact **I started programming at 9yo**
