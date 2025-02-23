@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **TailwindCSS, NextJS, Advanced DevOps Concepts**
-- 💬 Ask me about **React, Discord.JS, MC Plugin Development and Express.js**
+- 🌱 I’m currently learning **Prisma, MySQL, Advanced DevOps Concepts**
+- 💬 Ask me about **React, Discord.JS, MC Plugin Development, Next.js, TailwindCSS, DaisyUI, and Express.js**
 - 📫 How to reach me **amirparsab9@gmail.com**
 - ⚡ Fun fact **I started programming at 9yo**
 - 🏢 I currently work at **Dieteno (My Own Startup)**
