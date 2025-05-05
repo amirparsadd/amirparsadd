@@ -5,6 +5,5 @@
 - ⚡ Fun fact **I started programming at 9yo**
 - 🏢 I currently work at **Dieteno (My Own Startup)**
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=amirparsadd&theme=dark&hide_border=true)<br/>
+---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirparsadd&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
