@@ -1,8 +1,7 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **Prisma, MySQL, Advanced DevOps Concepts**
-- 💬 Ask me about **React, Discord.JS, MC Plugin Development, Next.js, TailwindCSS, DaisyUI, and Express.js**
 - 📫 How to reach me **amirparsab9@gmail.com**
-- ⚡ Fun fact **I started programming at 9yo**
+- ⚡ Fun fact **I started programming at 9 years old**
 - 🏢 I currently work at **Dieteno (My Own Startup)**
 
 ---
